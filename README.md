@@ -1,4 +1,4 @@
-# nyu-travis-ci
+# nyu-travis-ci take 2
 
 [![Build Status](https://travis-ci.com/ZiyiHuang96/lab-travis-ci.svg?branch=master)](https://travis-ci.com/ZiyiHuang96/lab-travis-ci)
 [![Codecov](https://img.shields.io/codecov/c/github/nyu-devops/lab-travis-ci.svg)]()
